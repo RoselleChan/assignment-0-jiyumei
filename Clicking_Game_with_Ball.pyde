@@ -1,4 +1,3 @@
-"""
 #Ball Game! - Fiona Lin
 
 ballSize = 50
